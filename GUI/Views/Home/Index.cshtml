@@ -1,0 +1,93 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/LoginLayout.cshtml";
+}
+
+<section class="row">
+    <section class="col col-md-6" >
+        <div class="row"><h3>Register</h3></div>
+        <div><p class="text-danger" id="register-valid"></p></div>
+        <form class="" method="post" >
+
+            <div class="form-group">
+                <label for="email" class="cols-sm-2 control-label">Your Email</label>
+                <div class="cols-sm-10">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fa fa-envelope fa" aria-hidden="true"></i></span>
+                        <input type="text" class="form-control" name="email" id="email" placeholder="Enter your Email" required autofocus />
+                        <span class="text-danger" id="email-valid"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="username" class="cols-sm-2 control-label">Username</label>
+                <div class="cols-sm-10">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fa fa-users fa" aria-hidden="true"></i></span>
+                        <input type="text" class="form-control" name="username" id="username" placeholder="Enter your Username" required autofocus />
+                        <span class="text-danger" id="username-valid"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="password" class="cols-sm-2 control-label">Password</label>
+                <div class="cols-sm-10">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fa fa-lock fa-lg" aria-hidden="true"></i></span>
+                        <input type="password" class="form-control" name="password" id="password" placeholder="Enter your Password" required autofocus />
+                        <span class="text-danger" id="password-valid"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="confirm" class="cols-sm-2 control-label">Confirm Password</label>
+                <div class="cols-sm-10">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fa fa-lock fa-lg" aria-hidden="true"></i></span>
+                        <input type="password" class="form-control" name="confirm" id="confirm-password" placeholder="Confirm your Password" required autofocus />
+                        <span class="text-danger" id="confirm-password-valid"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group ">
+                <input type="button" id="register" class="btn btn-primary btn-lg btn-block login-button" value="Register">
+            </div>
+
+        </form>
+    </section>
+    <section class="col col-md-6">
+        <div class="row"><h3>Login</h3></div>
+        <div><p class="text-danger" id="login-valid"></p></div>
+        <form class="" method="post">
+            <div class="form-group">
+                <label for="username" class="cols-sm-2 control-label">Username</label>
+                <div class="cols-sm-10">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fa fa-users fa" aria-hidden="true"></i></span>
+                        <input type="text" class="form-control" name="login-username" id="login-username" placeholder="Enter your Username" required autofocus />
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="password" class="cols-sm-2 control-label">Password</label>
+                <div class="cols-sm-10">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fa fa-lock fa-lg" aria-hidden="true"></i></span>
+                        <input type="password" class="form-control" name="login-password" id="login-password" placeholder="Enter your Password" required autofocus />
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <a href="#">Forget your password?</a>
+            </div>
+            <div class="form-group">
+                <input type="checkbox" id="remember-account" /><span> Remember your username and password</span>
+            </div>
+            <div class="form-group ">
+                <input type="button" id="login" class="btn btn-primary btn-lg btn-block login-button" value="Login">
+            </div>
+        </form>
+    </section>
+</section>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/Home/index.js"></script>

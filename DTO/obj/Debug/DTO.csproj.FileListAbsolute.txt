@@ -1,0 +1,11 @@
+F:\MockProject\DTO\bin\Debug\DTO.dll
+F:\MockProject\DTO\bin\Debug\DTO.pdb
+F:\MockProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\MockProject\DTO\obj\Debug\DTO.dll
+F:\MockProject\DTO\obj\Debug\DTO.pdb
+F:\MockProject\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\repository\sonnn18\DTO\bin\Debug\DTO.dll
+F:\repository\sonnn18\DTO\bin\Debug\DTO.pdb
+F:\repository\sonnn18\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\repository\sonnn18\DTO\obj\Debug\DTO.dll
+F:\repository\sonnn18\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,168 @@
+F:\MockProject\GUI\bin\ApplicationInsights.config
+F:\MockProject\GUI\bin\GUI.dll.config
+F:\MockProject\GUI\bin\GUI.dll
+F:\MockProject\GUI\bin\GUI.pdb
+F:\MockProject\GUI\bin\Antlr3.Runtime.dll
+F:\MockProject\GUI\bin\BusinessLogicLayer.dll
+F:\MockProject\GUI\bin\DTO.dll
+F:\MockProject\GUI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\MockProject\GUI\bin\Microsoft.AI.DependencyCollector.dll
+F:\MockProject\GUI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\MockProject\GUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\MockProject\GUI\bin\Microsoft.AI.Web.dll
+F:\MockProject\GUI\bin\Microsoft.AI.WindowsServer.dll
+F:\MockProject\GUI\bin\Microsoft.ApplicationInsights.dll
+F:\MockProject\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MockProject\GUI\bin\Microsoft.Web.Infrastructure.dll
+F:\MockProject\GUI\bin\Newtonsoft.Json.dll
+F:\MockProject\GUI\bin\System.Web.Helpers.dll
+F:\MockProject\GUI\bin\System.Web.Mvc.dll
+F:\MockProject\GUI\bin\System.Web.Optimization.dll
+F:\MockProject\GUI\bin\System.Web.Razor.dll
+F:\MockProject\GUI\bin\System.Web.WebPages.Deployment.dll
+F:\MockProject\GUI\bin\System.Web.WebPages.dll
+F:\MockProject\GUI\bin\System.Web.WebPages.Razor.dll
+F:\MockProject\GUI\bin\WebGrease.dll
+F:\MockProject\GUI\bin\DataAccessLayer.dll
+F:\MockProject\GUI\bin\System.Net.Http.Formatting.dll
+F:\MockProject\GUI\bin\BusinessLogicLayer.pdb
+F:\MockProject\GUI\bin\BusinessLogicLayer.dll.config
+F:\MockProject\GUI\bin\DTO.pdb
+F:\MockProject\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MockProject\GUI\bin\System.Web.Helpers.xml
+F:\MockProject\GUI\bin\System.Web.Mvc.xml
+F:\MockProject\GUI\bin\System.Web.Optimization.xml
+F:\MockProject\GUI\bin\System.Web.Razor.xml
+F:\MockProject\GUI\bin\System.Web.WebPages.xml
+F:\MockProject\GUI\bin\System.Web.WebPages.Deployment.xml
+F:\MockProject\GUI\bin\System.Web.WebPages.Razor.xml
+F:\MockProject\GUI\bin\Antlr3.Runtime.pdb
+F:\MockProject\GUI\bin\Newtonsoft.Json.xml
+F:\MockProject\GUI\bin\Microsoft.ApplicationInsights.xml
+F:\MockProject\GUI\bin\Microsoft.AI.DependencyCollector.xml
+F:\MockProject\GUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\MockProject\GUI\bin\Microsoft.AI.WindowsServer.xml
+F:\MockProject\GUI\bin\Microsoft.AI.Web.xml
+F:\MockProject\GUI\bin\DataAccessLayer.pdb
+F:\MockProject\GUI\bin\DataAccessLayer.dll.config
+F:\MockProject\GUI\bin\System.Net.Http.Formatting.xml
+F:\MockProject\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\MockProject\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\MockProject\GUI\obj\Debug\GUI.dll
+F:\MockProject\GUI\obj\Debug\GUI.pdb
+F:\MockProject\GUI\bin\PagedList.dll
+F:\MockProject\GUI\bin\PagedList.Mvc.dll
+F:\MockProject\GUI\bin\PagedList.xml
+F:\MockProject\GUI\bin\PagedList.Mvc.xml
+F:\repository\sonnn18\GUI\obj\Debug\GUI.dll
+F:\repository\sonnn18\GUI\obj\Debug\GUI.pdb
+F:\repository\sonnn18\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\repository\sonnn18\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\repository\sonnn18\GUI\bin\ApplicationInsights.config
+F:\repository\sonnn18\GUI\bin\GUI.dll.config
+F:\repository\sonnn18\GUI\bin\GUI.dll
+F:\repository\sonnn18\GUI\bin\GUI.pdb
+F:\repository\sonnn18\GUI\bin\Antlr3.Runtime.dll
+F:\repository\sonnn18\GUI\bin\BusinessLogicLayer.dll
+F:\repository\sonnn18\GUI\bin\DTO.dll
+F:\repository\sonnn18\GUI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\repository\sonnn18\GUI\bin\Microsoft.AI.DependencyCollector.dll
+F:\repository\sonnn18\GUI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\repository\sonnn18\GUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\repository\sonnn18\GUI\bin\Microsoft.AI.Web.dll
+F:\repository\sonnn18\GUI\bin\Microsoft.AI.WindowsServer.dll
+F:\repository\sonnn18\GUI\bin\Microsoft.ApplicationInsights.dll
+F:\repository\sonnn18\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\repository\sonnn18\GUI\bin\Microsoft.Web.Infrastructure.dll
+F:\repository\sonnn18\GUI\bin\Newtonsoft.Json.dll
+F:\repository\sonnn18\GUI\bin\PagedList.dll
+F:\repository\sonnn18\GUI\bin\PagedList.Mvc.dll
+F:\repository\sonnn18\GUI\bin\System.Web.Helpers.dll
+F:\repository\sonnn18\GUI\bin\System.Web.Mvc.dll
+F:\repository\sonnn18\GUI\bin\System.Web.Optimization.dll
+F:\repository\sonnn18\GUI\bin\System.Web.Razor.dll
+F:\repository\sonnn18\GUI\bin\System.Web.WebPages.Deployment.dll
+F:\repository\sonnn18\GUI\bin\System.Web.WebPages.dll
+F:\repository\sonnn18\GUI\bin\System.Web.WebPages.Razor.dll
+F:\repository\sonnn18\GUI\bin\WebGrease.dll
+F:\repository\sonnn18\GUI\bin\DataAccessLayer.dll
+F:\repository\sonnn18\GUI\bin\System.Net.Http.Formatting.dll
+F:\repository\sonnn18\GUI\bin\BusinessLogicLayer.pdb
+F:\repository\sonnn18\GUI\bin\BusinessLogicLayer.dll.config
+F:\repository\sonnn18\GUI\bin\DTO.pdb
+F:\repository\sonnn18\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\repository\sonnn18\GUI\bin\PagedList.xml
+F:\repository\sonnn18\GUI\bin\PagedList.Mvc.xml
+F:\repository\sonnn18\GUI\bin\System.Web.Helpers.xml
+F:\repository\sonnn18\GUI\bin\System.Web.Mvc.xml
+F:\repository\sonnn18\GUI\bin\System.Web.Optimization.xml
+F:\repository\sonnn18\GUI\bin\System.Web.Razor.xml
+F:\repository\sonnn18\GUI\bin\System.Web.WebPages.xml
+F:\repository\sonnn18\GUI\bin\System.Web.WebPages.Deployment.xml
+F:\repository\sonnn18\GUI\bin\System.Web.WebPages.Razor.xml
+F:\repository\sonnn18\GUI\bin\Antlr3.Runtime.pdb
+F:\repository\sonnn18\GUI\bin\Newtonsoft.Json.xml
+F:\repository\sonnn18\GUI\bin\Microsoft.ApplicationInsights.xml
+F:\repository\sonnn18\GUI\bin\Microsoft.AI.DependencyCollector.xml
+F:\repository\sonnn18\GUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\repository\sonnn18\GUI\bin\Microsoft.AI.WindowsServer.xml
+F:\repository\sonnn18\GUI\bin\Microsoft.AI.Web.xml
+F:\repository\sonnn18\GUI\bin\DataAccessLayer.pdb
+F:\repository\sonnn18\GUI\bin\DataAccessLayer.dll.config
+F:\repository\sonnn18\GUI\bin\System.Net.Http.Formatting.xml
+F:\Mock Project\sonnn18\GUI\bin\ApplicationInsights.config
+F:\Mock Project\sonnn18\GUI\bin\GUI.dll.config
+F:\Mock Project\sonnn18\GUI\bin\GUI.dll
+F:\Mock Project\sonnn18\GUI\bin\GUI.pdb
+F:\Mock Project\sonnn18\GUI\bin\Antlr3.Runtime.dll
+F:\Mock Project\sonnn18\GUI\bin\BusinessLogicLayer.dll
+F:\Mock Project\sonnn18\GUI\bin\DTO.dll
+F:\Mock Project\sonnn18\GUI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Mock Project\sonnn18\GUI\bin\Microsoft.AI.DependencyCollector.dll
+F:\Mock Project\sonnn18\GUI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Mock Project\sonnn18\GUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Mock Project\sonnn18\GUI\bin\Microsoft.AI.Web.dll
+F:\Mock Project\sonnn18\GUI\bin\Microsoft.AI.WindowsServer.dll
+F:\Mock Project\sonnn18\GUI\bin\Microsoft.ApplicationInsights.dll
+F:\Mock Project\sonnn18\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Mock Project\sonnn18\GUI\bin\Microsoft.Web.Infrastructure.dll
+F:\Mock Project\sonnn18\GUI\bin\Newtonsoft.Json.dll
+F:\Mock Project\sonnn18\GUI\bin\PagedList.dll
+F:\Mock Project\sonnn18\GUI\bin\PagedList.Mvc.dll
+F:\Mock Project\sonnn18\GUI\bin\System.Web.Helpers.dll
+F:\Mock Project\sonnn18\GUI\bin\System.Web.Mvc.dll
+F:\Mock Project\sonnn18\GUI\bin\System.Web.Optimization.dll
+F:\Mock Project\sonnn18\GUI\bin\System.Web.Razor.dll
+F:\Mock Project\sonnn18\GUI\bin\System.Web.WebPages.Deployment.dll
+F:\Mock Project\sonnn18\GUI\bin\System.Web.WebPages.dll
+F:\Mock Project\sonnn18\GUI\bin\System.Web.WebPages.Razor.dll
+F:\Mock Project\sonnn18\GUI\bin\WebGrease.dll
+F:\Mock Project\sonnn18\GUI\bin\DataAccessLayer.dll
+F:\Mock Project\sonnn18\GUI\bin\System.Net.Http.Formatting.dll
+F:\Mock Project\sonnn18\GUI\bin\BusinessLogicLayer.pdb
+F:\Mock Project\sonnn18\GUI\bin\BusinessLogicLayer.dll.config
+F:\Mock Project\sonnn18\GUI\bin\DTO.pdb
+F:\Mock Project\sonnn18\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Mock Project\sonnn18\GUI\bin\PagedList.xml
+F:\Mock Project\sonnn18\GUI\bin\PagedList.Mvc.xml
+F:\Mock Project\sonnn18\GUI\bin\System.Web.Helpers.xml
+F:\Mock Project\sonnn18\GUI\bin\System.Web.Mvc.xml
+F:\Mock Project\sonnn18\GUI\bin\System.Web.Optimization.xml
+F:\Mock Project\sonnn18\GUI\bin\System.Web.Razor.xml
+F:\Mock Project\sonnn18\GUI\bin\System.Web.WebPages.xml
+F:\Mock Project\sonnn18\GUI\bin\System.Web.WebPages.Deployment.xml
+F:\Mock Project\sonnn18\GUI\bin\System.Web.WebPages.Razor.xml
+F:\Mock Project\sonnn18\GUI\bin\Antlr3.Runtime.pdb
+F:\Mock Project\sonnn18\GUI\bin\Newtonsoft.Json.xml
+F:\Mock Project\sonnn18\GUI\bin\Microsoft.ApplicationInsights.xml
+F:\Mock Project\sonnn18\GUI\bin\Microsoft.AI.DependencyCollector.xml
+F:\Mock Project\sonnn18\GUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Mock Project\sonnn18\GUI\bin\Microsoft.AI.WindowsServer.xml
+F:\Mock Project\sonnn18\GUI\bin\Microsoft.AI.Web.xml
+F:\Mock Project\sonnn18\GUI\bin\DataAccessLayer.pdb
+F:\Mock Project\sonnn18\GUI\bin\DataAccessLayer.dll.config
+F:\Mock Project\sonnn18\GUI\bin\System.Net.Http.Formatting.xml
+F:\Mock Project\sonnn18\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\Mock Project\sonnn18\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\Mock Project\sonnn18\GUI\obj\Debug\GUI.dll
+F:\Mock Project\sonnn18\GUI\obj\Debug\GUI.pdb

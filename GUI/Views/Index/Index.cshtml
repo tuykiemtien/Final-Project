@@ -1,0 +1,44 @@
+﻿@model PagedList.IPagedList<ProductDTO>
+@using DTO;
+@using PagedList.Mvc
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/PageLayout.cshtml";
+}
+
+<h2>Index</h2>
+<section class="row" id="product-area">
+    <section class="col-md-12 area-update">
+        @{
+        foreach (var x in Model)
+        {
+            <section class="col-md-4 box">
+                <img class=" img-fluid" src="@Url.Content(String.Format(x.ProductImage))" style="width: 240px;height:auto;" alt="@x.ProductName">
+                <h2>@Html.ActionLink(x.ProductName, "Details", new { id = x.ProductID })</h2>
+            </section>
+    }
+        }
+    </section>
+    <section class="navi-bar">
+        <br />
+        Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+        @Html.PagedListPager(Model, page => Url.Action("Index", "Index", new { page }),
+                             PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new AjaxOptions() { HttpMethod = "GET", UpdateTargetId = "product-area" }))
+    </section>
+   
+</section>
+<style type="text/css">
+    .box{
+        margin-top: 10px;
+    }
+        .box:hover {
+            box-shadow: 0 0 11px rgba(0, 0, 255, 0.3);
+        }
+
+    -navi-bar {
+        position: absolute;
+    }
+</style>
+
+
+

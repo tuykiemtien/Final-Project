@@ -126,7 +126,15 @@ namespace DAO.Controllers
             if (customer != null && db.SaveChanges() > 0)
             {
                 db.Customers.Remove(customer);
-                return Ok();
+                if(db.SaveChanges() > 0)
+                {
+                    return Ok();
+                }
+                else
+                {
+                    return InternalServerError();
+                }
+
             }
             else
             {

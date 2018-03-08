@@ -44,3 +44,26 @@ F:\repository\sonnn18\API\bin\System.Web.Http.xml
 F:\repository\sonnn18\API\bin\System.Web.Http.WebHost.xml
 F:\repository\sonnn18\API\obj\Debug\API.csprojResolveAssemblyReference.cache
 F:\repository\sonnn18\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+F:\Mock Project\sonnn18\API\bin\API.dll.config
+F:\Mock Project\sonnn18\API\bin\API.dll
+F:\Mock Project\sonnn18\API\bin\API.pdb
+F:\Mock Project\sonnn18\API\bin\DTO.dll
+F:\Mock Project\sonnn18\API\bin\EntityFramework.dll
+F:\Mock Project\sonnn18\API\bin\EntityFramework.SqlServer.dll
+F:\Mock Project\sonnn18\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Mock Project\sonnn18\API\bin\Newtonsoft.Json.dll
+F:\Mock Project\sonnn18\API\bin\System.Net.Http.Formatting.dll
+F:\Mock Project\sonnn18\API\bin\System.Web.Http.dll
+F:\Mock Project\sonnn18\API\bin\System.Web.Http.WebHost.dll
+F:\Mock Project\sonnn18\API\bin\DTO.pdb
+F:\Mock Project\sonnn18\API\bin\EntityFramework.xml
+F:\Mock Project\sonnn18\API\bin\EntityFramework.SqlServer.xml
+F:\Mock Project\sonnn18\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Mock Project\sonnn18\API\bin\Newtonsoft.Json.xml
+F:\Mock Project\sonnn18\API\bin\System.Net.Http.Formatting.xml
+F:\Mock Project\sonnn18\API\bin\System.Web.Http.xml
+F:\Mock Project\sonnn18\API\bin\System.Web.Http.WebHost.xml
+F:\Mock Project\sonnn18\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+F:\Mock Project\sonnn18\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+F:\Mock Project\sonnn18\API\obj\Debug\API.dll
+F:\Mock Project\sonnn18\API\obj\Debug\API.pdb

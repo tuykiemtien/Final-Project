@@ -30,3 +30,19 @@ F:\repository\sonnn18\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojReso
 F:\repository\sonnn18\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
 F:\repository\sonnn18\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 F:\repository\sonnn18\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+F:\Mock Project\sonnn18\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll.config
+F:\Mock Project\sonnn18\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+F:\Mock Project\sonnn18\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+F:\Mock Project\sonnn18\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+F:\Mock Project\sonnn18\BusinessLogicLayer\bin\Debug\DTO.dll
+F:\Mock Project\sonnn18\BusinessLogicLayer\bin\Debug\System.Net.Http.Formatting.dll
+F:\Mock Project\sonnn18\BusinessLogicLayer\bin\Debug\Newtonsoft.Json.dll
+F:\Mock Project\sonnn18\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+F:\Mock Project\sonnn18\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+F:\Mock Project\sonnn18\BusinessLogicLayer\bin\Debug\DTO.pdb
+F:\Mock Project\sonnn18\BusinessLogicLayer\bin\Debug\System.Net.Http.Formatting.xml
+F:\Mock Project\sonnn18\BusinessLogicLayer\bin\Debug\Newtonsoft.Json.xml
+F:\Mock Project\sonnn18\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+F:\Mock Project\sonnn18\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+F:\Mock Project\sonnn18\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+F:\Mock Project\sonnn18\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

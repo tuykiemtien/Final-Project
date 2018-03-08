@@ -89,10 +89,17 @@ namespace DAO.Controllers
         public IHttpActionResult DeleteTerritory(string id)
         {
             Territory territory = db.Territories.FirstOrDefault(s => s.TerritoryID == id);
-            if (territory != null && db.SaveChanges()>0)
+            if (territory != null)
             {
                 db.Territories.Remove(territory);
-                return Ok();
+                if (db.SaveChanges() > 0)
+                {
+                    return Ok();
+                }
+                else
+                {
+                    return InternalServerError();
+                }
             }
             else
             {

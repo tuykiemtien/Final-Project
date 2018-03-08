@@ -127,10 +127,18 @@ namespace DAO.Controllers
         public IHttpActionResult DeleteSupplier(int id)
         {
             Supplier supplier = db.Suppliers.FirstOrDefault(s => s.SupplierID == id);
-            if (supplier != null && db.SaveChanges() > 0)
+            if (supplier != null )
             {
                 db.Suppliers.Remove(supplier);
-                return Ok();
+                if(db.SaveChanges() > 0)
+                {
+                    return Ok();
+                }
+                else
+                {
+                    return InternalServerError();
+                }
+
             }
             else
             {

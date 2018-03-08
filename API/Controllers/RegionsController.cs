@@ -86,10 +86,18 @@ namespace DAO.Controllers
         public IHttpActionResult DeleteRegion(int id)
         {
             Region region = db.Regions.FirstOrDefault(s => s.RegionID == id);
-            if (region != null && db.SaveChanges() > 0)
+            if (region != null)
             {
                 db.Regions.Remove(region);
-                return Ok();
+                if(db.SaveChanges() > 0)
+                {
+                    return Ok();
+                }
+                else
+                {
+                    return InternalServerError();
+                }
+
             }
             else
             {

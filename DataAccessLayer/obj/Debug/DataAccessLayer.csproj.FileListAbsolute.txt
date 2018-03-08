@@ -46,3 +46,27 @@ F:\repository\sonnn18\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
 F:\repository\sonnn18\DataAccessLayer\bin\Debug\System.Net.Http.Formatting.dll
 F:\repository\sonnn18\DataAccessLayer\bin\Debug\System.Web.Http.Common.dll
 F:\repository\sonnn18\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\API.dll
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\DTO.dll
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\System.Net.Http.Formatting.dll
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\System.Web.Http.Common.dll
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\System.Web.Http.dll
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\EntityFramework.dll
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\System.Web.Http.WebHost.dll
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\API.pdb
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\API.dll.config
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\DTO.pdb
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\System.Net.Http.Formatting.xml
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\System.Web.Http.Common.xml
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\System.Web.Http.xml
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\EntityFramework.xml
+F:\Mock Project\sonnn18\DataAccessLayer\bin\Debug\System.Web.Http.WebHost.xml
+F:\Mock Project\sonnn18\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+F:\Mock Project\sonnn18\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\Mock Project\sonnn18\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\Mock Project\sonnn18\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
